@@ -1,6 +1,5 @@
 {
   "name": "amrsoft13/laravel-payfort",
-  "version": "1.0.0",
   "description": "Laravel-payfort is a simple package to process payments throught Payfort payment gateway.",
   "keywords": [
     "http",
