@@ -5,7 +5,6 @@
         "This file is @generated automatically"
     ],
     "content-hash": "1dd51b44d9f10b2be0d948e1d8a4f0f6",
-    "version": "1.0.0",
     "packages": [
         {
             "name": "doctrine/inflector",
