@@ -1,5 +1,5 @@
 {
-  "name": "wshurafa/laravel-payfort",
+  "name": "amrsoft13/laravel-payfort",
   "description": "Laravel-payfort is a simple package to process payments throught Payfort payment gateway.",
   "keywords": [
     "http",
@@ -14,8 +14,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/wshurafa/laravel-payfort/issues",
-    "source": "https://github.com/wshurafa/laravel-payfort"
+    "issues": "https://github.com/amrsoft13/laravel-payfort/issues",
+    "source": "https://github.com/amrsoft13/laravel-payfort"
   },
   "type": "library",
   "license": "MIT",
